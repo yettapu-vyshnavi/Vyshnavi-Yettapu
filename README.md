@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vyshnavi Yettapu
 
 ### 💼 Senior QA Automation Engineer | Manual + Automation | API | Mobile | ServiceNow ATF  
-5+ years of experience in designing, executing, and maintaining end-to-end testing solutions. Skilled in functional, UI, API, and mobile testing with strong expertise in building scalable automation frameworks.
+9+ years of experience in designing, executing, and maintaining end-to-end testing solutions. Skilled in functional, UI, API, and mobile testing with strong expertise in building scalable automation frameworks.
 
 ---
 
