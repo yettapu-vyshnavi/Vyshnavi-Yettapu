@@ -63,9 +63,9 @@ Android Studio validations + sample Appium/Espresso scripts.
 
 ## 📈 GitHub Stats
 
-![Vyshnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Vyshnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yettapu-vyshnavi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yettapu-vyshnavi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -78,8 +78,8 @@ Android Studio validations + sample Appium/Espresso scripts.
 ---
 
 ## 💬 Connect With Me
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
+📧 Email: vyettapu@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/b6882a106 
 
 ---
 
