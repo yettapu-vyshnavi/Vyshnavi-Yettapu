@@ -78,8 +78,8 @@ Android Studio validations + sample Appium/Espresso scripts.
 ---
 
 ## 💬 Connect With Me
-📧 Email: vyettapu@example.com  
-💼 LinkedIn: https://www.linkedin.com/in/b6882a106 
+📧 Email: vyettapu@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/vyshnavi-reddy-b6882a106 
 
 ---
 
